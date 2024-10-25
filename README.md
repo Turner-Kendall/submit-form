@@ -16,3 +16,5 @@ and that will get you a form and a few helper / starter functions to hopefully s
 `npm run build` 
 
 Will build your form into a little web app, if you need that kinda thing.
+
+This is not the best example of how I do Vue however.  If you want to see a better example that also uses (pico)[https://picoccss.com] you should check out the (Phi Skin)[https://phi.skin]
