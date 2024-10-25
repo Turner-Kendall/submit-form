@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+# submit-form
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+#### One always needs a form, no?
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+###### This one uses Vue and Pico and is the form I test stuff with.
+
+It's pretty nice and I thought that I would make it public in case anyone else needed a RAD form to send at an API, a contact form to mail front-end, or really whatever you might need an html form for.
+
+You can clone this repository and then run:
+
+`npm instal`
+`npm run dev`
+
+and that will get you a form and a few helper / starter functions to hopefully speed up your development process.  Or at least not to have to mess with the form basics, etc.
+
+`npm run build` 
+
+Will build your form into a little web app, if you need that kinda thing.
